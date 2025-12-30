@@ -1,4 +1,4 @@
-## Hi there👋I am  Irushi Weerasinghe.
+## Hello there👋I am  Irushi Weerasinghe.
 
 <!--
 **irushinw/irushinw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
